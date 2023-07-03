@@ -1,5 +1,13 @@
 # html-and-CSS-assigment
 
+assigment-1 https://willowy-biscuit-3bf00d.netlify.app/
 
+my chess game https://harmonious-lolly-297f5d.netlify.app/assigment4/chessgame.html
 
- assigment-4 chese-game https://magenta-basbousa-20fe0f.netlify.app/
+my form https://harmonious-lolly-297f5d.netlify.app/assigment5/hospital-form.html
+
+my resturent menu links https://harmonious-lolly-297f5d.netlify.app/day2assigment/resturentmenu.html
+
+my resturent menu https://harmonious-lolly-297f5d.netlify.app/assigment%203/resturent.html
+
+My all projects https://harmonious-lolly-297f5d.netlify.app/
